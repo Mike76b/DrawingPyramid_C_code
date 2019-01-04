@@ -1,4 +1,4 @@
-# DrawingPyramid_C_code
+# DrawingPyramid_C_code.
 `C code`
 
 (EN)
